@@ -50,7 +50,7 @@ export const products: Product[] = [
     category: 'aerosoles-dulces',
     price: 9500,
     notes: 'Limón fresco, merengue tostado, masa de manteca.',
-    image: '/images/aerosol-dulce.png',
+    image: '/images/lemmon-pie-aerosol.jpg',
   },
   {
     id: 'aerosol-flan-con-caramelo',
@@ -58,7 +58,7 @@ export const products: Product[] = [
     category: 'aerosoles-dulces',
     price: 9500,
     notes: 'Vainilla, huevo, caramelo oscuro.',
-    image: '/images/aerosol-dulce.png',
+    image: '/images/flan-con-caramelo.jpg',
   },
   {
     id: 'aerosol-panqueques',
@@ -66,7 +66,7 @@ export const products: Product[] = [
     category: 'aerosoles-dulces',
     price: 9500,
     notes: 'Masa dorada, dulce de leche, manteca derretida.',
-    image: '/images/aerosol-dulce.png',
+    image: '/images/panqueques.jpg',
   },
   {
     id: 'aerosol-asado',
@@ -74,7 +74,7 @@ export const products: Product[] = [
     category: 'aerosoles-salados',
     price: 12000,
     notes: 'Leña de quebracho, brasas, chimichurri.',
-    image: '/images/aerosol-salado.png',
+    image: '/images/asado.jpg',
   },
   {
     id: 'aerosol-empanadas',
@@ -82,7 +82,7 @@ export const products: Product[] = [
     category: 'aerosoles-salados',
     price: 12000,
     notes: 'Masa al horno, comino, cebolla dulce.',
-    image: '/images/aerosol-salado.png',
+    image: '/images/empanada.jpg',
   },
   {
     id: 'aerosol-milanesa-frita',
@@ -90,7 +90,7 @@ export const products: Product[] = [
     category: 'aerosoles-salados',
     price: 12000,
     notes: 'Pan rallado, perejil, limón.',
-    image: '/images/aerosol-salado.png',
+    image: '/images/milanesa.jpg',
   },
   {
     id: 'vela-lemon-pie',
@@ -98,7 +98,7 @@ export const products: Product[] = [
     category: 'velas',
     price: 18000,
     notes: 'Cera de soja. Limón, merengue y vainilla.',
-    image: '/images/vela.png',
+    image: '/images/lemmon-pie-vela.jpg',
   },
   {
     id: 'vela-flan-con-caramelo',
@@ -106,7 +106,7 @@ export const products: Product[] = [
     category: 'velas',
     price: 18000,
     notes: 'Cera de soja. Caramelo, vainilla y crema.',
-    image: '/images/vela.png',
+    image: '/images/flan-vela.jpg',
   },
   {
     id: 'vela-panqueques',
@@ -114,7 +114,7 @@ export const products: Product[] = [
     category: 'velas',
     price: 18000,
     notes: 'Cera de soja. Dulce de leche y manteca.',
-    image: '/images/vela.png',
+    image: '/images/panqueque-vela.jpg',
   },
   {
     id: 'difusor-blanco',
@@ -122,7 +122,7 @@ export const products: Product[] = [
     category: 'difusores',
     price: 20000,
     notes: 'Acabado mate. Difusión silenciosa y constante.',
-    image: '/images/difusor-blanco-studio.png',
+    image: '/images/difusor-blanco.png',
   },
   {
     id: 'difusor-negro',
@@ -130,7 +130,7 @@ export const products: Product[] = [
     category: 'difusores',
     price: 20000,
     notes: 'Acabado mate. Difusión silenciosa y constante.',
-    image: '/images/difusor-negro-studio.png',
+    image: '/images/difusor-negro.png',
   },
 ]
 
