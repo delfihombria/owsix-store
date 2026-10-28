@@ -4,7 +4,7 @@ const values = ['Innovación', 'Autenticidad', 'Creatividad', 'Calidad']
 
 export function Concept() {
   return (
-    <section aria-labelledby="concept-title" className="mx-auto max-w-7xl px-5 py-32 md:px-8 md:py-48">
+    <section aria-labelledby="concept-title" className="mx-auto max-w-7xl px-5 py-20 md:px-8 md:py-28">
       <Reveal className="mx-auto max-w-3xl text-center">
         <p className="text-xs uppercase tracking-[0.3em] text-muted-foreground">Concepto</p>
         <h2
@@ -23,9 +23,9 @@ export function Concept() {
       </Reveal>
 
       <Reveal delay={150}>
-        <ul className="mx-auto mt-24 grid max-w-5xl grid-cols-2 border-t border-border md:grid-cols-4">
+        <ul className="mx-auto mt-12 grid max-w-5xl grid-cols-2 border-t border-border md:grid-cols-4">
           {values.map((value, index) => (
-            <li key={value} className="flex flex-col gap-2 pt-6 pr-4 pb-6">
+            <li key={value} className="flex flex-col items-center gap-2 py-6 text-center">
               <span className="text-xs tabular-nums text-muted-foreground">0{index + 1}</span>
               <span className="font-display text-xl text-foreground">{value}</span>
             </li>
