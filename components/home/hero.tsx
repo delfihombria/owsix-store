@@ -8,7 +8,7 @@ export function Hero() {
       className="relative -mt-16 flex min-h-[640px] h-svh flex-col justify-end overflow-hidden bg-ink text-ink-foreground"
     >
       <Image
-        src="aerosol portada.png" 
+        src="/images/aerosol portada.png" 
         alt="Aerosol OWSIX Asado sobre una tabla de madera quemada, con humo y brasas de fondo"
         fill
         priority
@@ -26,7 +26,7 @@ export function Hero() {
   alt="Logo OWSIX"
   width={1000}
   height={500}
-  className="absolute md:right-0 md:top-1/2 md:-translate-y-1/2 left-1/2 -translate-x-1/2 top-24 md:translate-x-0 opacity-90"
+  className="absolute md:right-0 md:top-8 md:top-1/2 md:-translate-y-1/2 left-1/2 -translate-x-1/2 top-24 md:translate-x-0 opacity-90"
 />
         <h1
           id="hero-title"
