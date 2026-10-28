@@ -7,7 +7,7 @@ export function Vision() {
       <div className="grid items-center gap-16 md:grid-cols-2 md:gap-24">
         <Reveal className="relative aspect-[4/5] overflow-hidden">
           <Image
-            src="/images/vision.png"
+            src="/images/aromatizantes portada.png"
             alt="Manos sosteniendo un frasco de esencia rodeado de cáscara de limón, vainilla y madera"
             fill
             sizes="(min-width: 768px) 50vw, 100vw"
