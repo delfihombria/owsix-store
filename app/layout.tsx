@@ -73,6 +73,30 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
           {children}
           <SiteFooter />
           <CartDrawer />
+          <a
+  href="https://wa.me/5491166032266"
+  target="_blank"
+  rel="noopener noreferrer"
+  style={{
+    position: 'fixed',
+    bottom: '20px',
+    right: '20px',
+    width: '60px',
+    height: '60px',
+    borderRadius: '50%',
+    backgroundColor: '#25D366',
+    color: 'white',
+    display: 'flex',
+    alignItems: 'center',
+    justifyContent: 'center',
+    fontSize: '30px',
+    zIndex: 9999,
+    textDecoration: 'none',
+    boxShadow: '0 4px 12px rgba(0,0,0,0.3)'
+  }}
+>
+  W
+</a>
         </CartProvider>
         {process.env.NODE_ENV === 'production' && <Analytics />}
       </body>
