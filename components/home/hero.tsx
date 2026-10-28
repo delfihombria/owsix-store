@@ -26,7 +26,7 @@ export function Hero() {
   alt="Logo OWSIX"
   width={1000}
   height={500}
-  className="absolute right-0 top-1/2 -translate-y-1/2 opacity-90"
+  className="absolute -right-40 top-[45%] -translate-y-1/2"
 />
         <h1
           id="hero-title"
