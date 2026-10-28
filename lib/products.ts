@@ -98,7 +98,7 @@ export const products: Product[] = [
     category: 'velas',
     price: 18000,
     notes: 'Cera de soja. Limón, merengue y vainilla.',
-    image: '/images/lemmon-pie-vela.jpg',
+    image: '/images/lemmon pie vela.jpg',
   },
   {
     id: 'vela-flan-con-caramelo',
@@ -106,7 +106,7 @@ export const products: Product[] = [
     category: 'velas',
     price: 18000,
     notes: 'Cera de soja. Caramelo, vainilla y crema.',
-    image: '/images/flan-vela.jpg',
+    image: '/images/flan vela.jpg',
   },
   {
     id: 'vela-panqueques',
@@ -114,7 +114,7 @@ export const products: Product[] = [
     category: 'velas',
     price: 18000,
     notes: 'Cera de soja. Dulce de leche y manteca.',
-    image: '/images/panqueque-vela.jpg',
+    image: '/images/panqueque vela.jpg',
   },
   {
     id: 'difusor-blanco',
@@ -122,7 +122,7 @@ export const products: Product[] = [
     category: 'difusores',
     price: 20000,
     notes: 'Acabado mate. Difusión silenciosa y constante.',
-    image: '/images/difusor-blanco.png',
+    image: '/images/difusor blanco.jpg',
   },
   {
     id: 'difusor-negro',
@@ -130,7 +130,7 @@ export const products: Product[] = [
     category: 'difusores',
     price: 20000,
     notes: 'Acabado mate. Difusión silenciosa y constante.',
-    image: '/images/difusor-negro.png',
+    image: '/images/difusor negro.jpg',
   },
 ]
 
