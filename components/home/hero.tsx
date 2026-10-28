@@ -20,13 +20,13 @@ export function Hero() {
         className="absolute inset-0 bg-gradient-to-t from-ink via-ink/50 to-ink/10 md:bg-gradient-to-r md:from-ink/90 md:via-ink/40 md:to-transparent"
       />
 
-      <div className="relative mx-auto w-full max-w-7xl px-5 pb-16 md:px-8 md:pb-24">
+      <div className="relative mx-auto flex w-full max-w-7xl items-center justify-between px-5 pb-16 md:px-8 md:pb-24">
         <Image
   src="/images/logo owsix.png"
   alt="Logo OWSIX"
-  width={750}
-  height={375}
-  className="animate-in fade-in slide-in-from-bottom-4 duration-1000 mt-40 mb-12 ml-16"
+  width={700}
+  height={350}
+  className="animate-in fade-in slide-in-from-bottom-4 duration-1000 mt-20 mb-12 ml-auto"
 />
         <h1
           id="hero-title"
