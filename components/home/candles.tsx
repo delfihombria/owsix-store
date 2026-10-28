@@ -12,7 +12,7 @@ export function Candles() {
       <div className="mx-auto max-w-7xl px-5 py-32 md:px-8 md:py-48">
         <Reveal className="relative aspect-[4/5] overflow-hidden sm:aspect-[3/2]">
           <Image
-            src="/images/velas-editorial.png"
+            src="velas 360.png"
             alt="Tres velas aromáticas OWSIX encendidas sobre un estante de travertino"
             fill
             sizes="(min-width: 1280px) 1216px, 100vw"
