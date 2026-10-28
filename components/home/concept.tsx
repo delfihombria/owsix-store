@@ -23,7 +23,7 @@ export function Concept() {
       </Reveal>
 
       <Reveal delay={150}>
-        <ul className="mx-auto mt-24 grid max-w-4xl grid-cols-2 border-t border-border md:grid-cols-4">
+        <ul className="mx-auto mt-24 grid max-w-5xl grid-cols-2 border-t border-border md:grid-cols-4">
           {values.map((value, index) => (
             <li key={value} className="flex flex-col gap-2 pt-6 pr-4 pb-6">
               <span className="text-xs tabular-nums text-muted-foreground">0{index + 1}</span>
