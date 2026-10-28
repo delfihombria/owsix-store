@@ -90,7 +90,7 @@ export const products: Product[] = [
     category: 'aerosoles-salados',
     price: 12000,
     notes: 'Pan rallado, perejil, limón.',
-    image: '/images/milanesa.jpg',
+    image: '/images/milanesa .jpg',
   },
   {
     id: 'vela-lemon-pie',
