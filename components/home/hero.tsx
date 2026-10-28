@@ -24,8 +24,8 @@ export function Hero() {
         <Image
   src="/images/logo owsix.png"
   alt="Logo OWSIX"
-  width={450}
-  height={220}
+  width={650}
+  height={420}
   className="animate-in fade-in slide-in-from-bottom-4 duration-1000 mb-6"
 />
         <h1
