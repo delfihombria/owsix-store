@@ -21,12 +21,13 @@ export function Hero() {
       />
 
       <div className="relative mx-auto w-full max-w-7xl px-5 pb-16 md:px-8 md:pb-24">
-        <p
-          aria-hidden="true"
-          className="animate-in fade-in slide-in-from-bottom-4 font-display text-7xl font-semibold leading-none tracking-tight duration-1000 md:text-9xl"
-        >
-          OWSIX
-        </p>
+        <Image
+  src="/images/logo owsix.png"
+  alt="Logo OWSIX"
+  width={250}
+  height={120}
+  className="animate-in fade-in slide-in-from-bottom-4 duration-1000 mb-6"
+/>
         <h1
           id="hero-title"
           className="mt-6 max-w-xl animate-in fade-in slide-in-from-bottom-4 font-display text-3xl font-medium leading-tight text-balance delay-150 duration-1000 fill-mode-backwards md:text-5xl"
