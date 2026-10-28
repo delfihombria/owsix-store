@@ -85,7 +85,7 @@ export default function RootLayout({ children }: Readonly<{ children: React.Reac
   }}
 >
   <img
-    src="/images/whatsapp.png"
+    src="/images/icono-whatsapp-original.png"
     alt="WhatsApp"
     style={{
       width: '65px',
