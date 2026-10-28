@@ -24,13 +24,13 @@ export function Hero() {
         <Image
   src="/images/logo owsix.png"
   alt="Logo OWSIX"
-  width={700}
-  height={350}
-  className="absolute right-10 bottom-20 animate-in fade-in slide-in-from-bottom-4 duration-1000"
+  width={1000}
+  height={500}
+  className="absolute right-0 top-1/2 -translate-y-1/2 animate-in fade-in slide-in-from-bottom-4 duration-1000"
 />
         <h1
           id="hero-title"
-          className="mt-6 max-w-xl animate-in fade-in slide-in-from-bottom-4 font-display text-3xl font-medium leading-tight text-balance delay-150 duration-1000 fill-mode-backwards md:text-5xl"
+          className="mt-0 max-w-xl animate-in fade-in slide-in-from-bottom-4 font-display text-3xl font-medium leading-tight text-balance delay-150 duration-1000 fill-mode-backwards md:text-5xl"
         >
           Fragancias que despiertan recuerdos.
         </h1>
