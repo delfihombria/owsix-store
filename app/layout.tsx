@@ -29,12 +29,12 @@ export const metadata: Metadata = {
     siteName: 'OWSIX',
     title: 'OWSIX — Fragancias que despiertan recuerdos',
     description: 'Aerosoles, velas y difusores con aromas de la cocina argentina.',
-    images: [{ url: '/images/hero.png', alt: 'Productos OWSIX' }],
+    images: [{ url: '/images/aerosol portada.png', alt: 'Productos OWSIX' }],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'OWSIX — Fragancias que despiertan recuerdos',
-    images: ['/images/hero.png'],
+    images: ['/images/aerosol portada.png'],
   },
   alternates: { canonical: '/' },
 }
