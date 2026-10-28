@@ -14,7 +14,7 @@ export function Wholesale() {
     <section id="mayoristas" aria-labelledby="wholesale-title" className="scroll-mt-16 bg-ink text-ink-foreground">
       <div className="relative aspect-[4/3] w-full md:aspect-[21/9]">
         <Image
-          src="/images/mayoristas.png"
+          src="spray salado 360.png"
           alt="Interior de un restaurante argentino con luz cálida y una parrilla encendida de fondo"
           fill
           sizes="100vw"
