@@ -26,7 +26,7 @@ export function Hero() {
   alt="Logo OWSIX"
   width={700}
   height={350}
-  className="animate-in fade-in slide-in-from-bottom-4 duration-1000 mt-20 mb-12 ml-auto"
+  className="absolute right-10 bottom-20 animate-in fade-in slide-in-from-bottom-4 duration-1000"
 />
         <h1
           id="hero-title"
