@@ -8,7 +8,6 @@ export function Hero() {
       className="relative -mt-16 flex min-h-[640px] h-svh flex-col justify-end overflow-hidden bg-ink text-ink-foreground"
     >
       <Image
-        src="/images/aerosol portada.png" 
         alt="Aerosol OWSIX Asado sobre una tabla de madera quemada, con humo y brasas de fondo"
         fill
         priority
