@@ -50,7 +50,7 @@ export const products: Product[] = [
     category: 'aerosoles-dulces',
     price: 9500,
     notes: 'Limón fresco, merengue tostado, masa de manteca.',
-    image: '/images/lemmon-pie-aerosol.jpg',
+    image: '/images/lemmon pie aerosol.jpg',
   },
   {
     id: 'aerosol-flan-con-caramelo',
@@ -58,7 +58,7 @@ export const products: Product[] = [
     category: 'aerosoles-dulces',
     price: 9500,
     notes: 'Vainilla, huevo, caramelo oscuro.',
-    image: '/images/flan-con-caramelo.jpg',
+    image: '/images/flan con caramelo.jpg',
   },
   {
     id: 'aerosol-panqueques',
