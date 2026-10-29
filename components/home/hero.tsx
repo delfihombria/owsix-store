@@ -7,12 +7,6 @@ export function Hero() {
       aria-labelledby="hero-title"
       className="relative -mt-16 flex min-h-[640px] h-svh flex-col justify-end overflow-hidden bg-ink text-ink-foreground"
     >
-      <Image
-        alt="Aerosol OWSIX Asado sobre una tabla de madera quemada, con humo y brasas de fondo"
-        fill
-        priority
-        sizes="100vw"
-        className="animate-in fade-in object-cover object-[72%_center] duration-[2000ms]"
       />
       <div
         aria-hidden="true"
