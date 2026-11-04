@@ -7,7 +7,6 @@ export function Hero() {
       aria-labelledby="hero-title"
       className="relative -mt-16 flex min-h-[640px] h-svh flex-col justify-end overflow-hidden bg-ink text-ink-foreground"
     >
-      />
       <div
         aria-hidden="true"
         className="absolute inset-0 bg-gradient-to-t from-ink via-ink/50 to-ink/10 md:bg-gradient-to-r md:from-ink/90 md:via-ink/40 md:to-transparent"
