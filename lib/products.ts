@@ -160,5 +160,5 @@ export const contact = {
   whatsapp: '5491166032266',
   whatsappDisplay: '11 6603 2266',
   instagram: 'owsix_06',
-  tiktok: 'owsix3',
+  tiktok: 'owsix_06',
 }
